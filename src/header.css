@@ -1,0 +1,44 @@
+h2{
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    top: 0;
+}
+.maincontainer{
+    /* background-color: aliceblue; */
+    /* align-items: center; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* bottom: 500px; */
+
+}
+/* h2{
+    text-align: center;
+} */
+body{
+    background-color: aliceblue; 
+}
+button{
+    height: 20px;
+    width: 65px;
+}
+ul{
+list-style-type:none;
+}
+/* p{
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+
+
+} */
+.map{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    width: 550px;
+    height: 120px;
+    margin-left: 10px;
+    background-color: antiquewhite;
+}
